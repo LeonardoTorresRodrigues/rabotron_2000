@@ -2,3 +2,4 @@
 ## Objetivos de estudo
 * HTML
 * JavaScript
+* data-attributes
