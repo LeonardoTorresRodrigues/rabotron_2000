@@ -1,14 +1,24 @@
 # Robotron 2000
-Se prepare para o combate com o Robotron 2000!
 
-Clique aqui para montar seu: https://leonardotorresrodrigues.github.io/robotron_2000/
+Monte seu robô de combate!
 
-![Captura de Tela (135)](https://user-images.githubusercontent.com/91892938/184906775-814ddcd9-657b-416e-976e-c400ba6dfb5b.png)
-## Monte seu robo com as melhores peças e proteja a terra.
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Robotron 2000**
+| :label: Tecnologias | javascript, html, css
+| :rocket: URL         | https://leonardotorresrodrigues.github.io/robotron_2000/
+| :fire: Desafio     | https://alura.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![Captura de Tela (135)](https://user-images.githubusercontent.com/91892938/184906775-814ddcd9-657b-416e-976e-c400ba6dfb5b.png#vitrinedev)
+
+## Detalhes do projeto
+
+### Monte seu robo com as melhores peças e proteja a terra.
 
 https://user-images.githubusercontent.com/91892938/184911066-a564b56b-82ed-4f46-a1a0-9ecf89ecae25.mp4
 
-## Objetivos de estudo
+### Objetivos de estudo
 * HTML
 * JavaScript
 * data-attributes
