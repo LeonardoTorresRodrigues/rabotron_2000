@@ -5,7 +5,7 @@ Monte seu robô de combate!
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Robotron 2000**
-| :label: Tecnologias | javascript, html, css
+| :label: Tecnologias | JavaScript, HTML e CSS
 | :rocket: URL         | https://leonardotorresrodrigues.github.io/robotron_2000/
 | :fire: Desafio     | https://alura.com.br
 
