@@ -9,7 +9,12 @@ Monte seu robô de combate!
 | :rocket: URL         | https://leonardotorresrodrigues.github.io/robotron_2000/
 | :fire: Desafio     | https://alura.com.br
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![badge](https://img.shields.io/badge/version-1.0-green)
+
 ![Captura de Tela (135)](https://user-images.githubusercontent.com/91892938/184906775-814ddcd9-657b-416e-976e-c400ba6dfb5b.png#vitrinedev)
 
 ## Detalhes do projeto
@@ -28,3 +33,8 @@ https://user-images.githubusercontent.com/91892938/184911066-a564b56b-82ed-4f46-
 Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o professor Pedro Marins.
 * Link para a Alura: https://www.alura.com.br/
 * Link para o LinkedIn do porfessor: https://www.linkedin.com/in/pedromarins/
+
+## Próximas atualizações
+> Melhora na responsividade
+
+> Estilização na troca de cor dos Robôs
