@@ -44,9 +44,20 @@ main {
 }
 
 .alterar {
-  text-align: center;
-  width: 5rem;
-  height: 2rem;
+  margin-top: 1rem;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  padding: 0.2rem 1.5rem 0 .5rem;
+  float: right;
+  border: 3px solid var(--main-branco);
+  background: var(--main-branco);
+  clip-path: polygon(100% 0, 100% calc(100% - 30px), calc(100% - 30px) 100%, 0 100%, 0 0);
+  cursor: pointer;
+}
+
+.alterar:hover {
+  background: var(--main-preto);
+  color: var(--main-branco)
 }
 
 .robo {
