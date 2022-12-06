@@ -43,6 +43,7 @@ controle.forEach((elemento) => {
 
 function manipulaDados(operacao, controle) {
   const peca = controle.querySelector("[data-contador]");
+  event.preventDefault();
 
   if (operacao === "-") {
     peca.value = parseInt(peca.value) - 1;
