@@ -34,7 +34,7 @@ Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o 
 * Link para a Alura: https://www.alura.com.br/
 * Link para o LinkedIn do porfessor: https://www.linkedin.com/in/pedromarins/
 
-## Próximas atualizações
+# Próximas atualizações
 > Melhora na responsividade
 
 > Estilização na troca de cor dos Robôs
