@@ -1,32 +1,9 @@
-:root {
-    --main-cinza: #CCCCCC;
-    --main-branco: #FFFFFF;
-    --main-preto: #000000;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-body {
-    background: url(../img/fundo.jpg);
-    background-position: center center;
-    background-size: cover cover;
-    padding: 0;
-    margin: 0;
-    font-weight: 300;
-}
-
-body, input {
-    font-family: 'Teko', sans-serif;
-}
-
 main {
-    width: 80vw;
-    height: 80vh;
+    width: 100vw;
+    height: 100vh;
     margin: 10vh 8vw 10vh 12vw;
     display: flex;
-    gap: 1vw;
+    gap: .5vw;
 }
 
 .robotron {
@@ -37,13 +14,7 @@ main {
     position: relative;
 }
 
-.robo {
-    height: 110%;
-    z-index: 1;
-    position: absolute;
-    left: -20%;
-    top: -5%;
-}
+
 
 .titulo {
     transform: rotate(180deg);
@@ -63,6 +34,7 @@ main {
     clip-path: polygon(calc(100% - 30px) 0, 100% 30px, 100% calc(100% - 30px), calc(100% - 30px) 100%, 30px 100%, 0 calc(100% - 30px), 0 30px, 30px 0);
     border-left: 5px solid var(--main-cinza);
     height: 80%;
+    margin: auto;
 }
 
 /****************************** Equipamentos *****/
@@ -219,27 +191,4 @@ main {
    right: 5%;
    bottom: 10%;
    display: flex;
-}
-
-@media screen and (max-width: 1600px) {
-    body { 
-        font-size: 14px;
-    }
-    main {
-        width: 90vw;
-        height: 80vh;
-        margin: 5vh auto;
-    }
-}
-
-@media screen and (max-width: 1200px) {
-    body { 
-        font-size: 13px;
-    }
-
-    main {
-        width: 96vw;
-        height: 80vh;
-        margin: 10vh auto;
-    }
 }
