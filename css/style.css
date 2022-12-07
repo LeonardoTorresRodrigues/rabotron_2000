@@ -15,7 +15,7 @@ body {
   background-size: cover;
   padding: 0;
   margin: 0;
-  font-weight: 300; 
+  font-weight: 300;
 }
 
 input {
@@ -40,7 +40,8 @@ main {
   display: flex;
   flex-direction: row;
   gap: 1rem;
-  margin-top: .5rem;
+  margin: .5rem 0 0 .5rem;
+  cursor: pointer;
 }
 
 .alterar {
@@ -52,7 +53,6 @@ main {
   border: 3px solid var(--main-branco);
   background: var(--main-branco);
   clip-path: polygon(100% 0, 100% calc(100% - 30px), calc(100% - 30px) 100%, 0 100%, 0 0);
-  cursor: pointer;
 }
 
 .alterar:hover {
@@ -61,11 +61,11 @@ main {
 }
 
 .robo {
-  height: 100%;
+  height: 90%;
   z-index: 1;
   position: absolute;
   left: -20%;
-  top: -1%;
+  top: 5%;
 }
 
 .titulo {
