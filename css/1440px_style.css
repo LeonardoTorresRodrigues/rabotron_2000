@@ -1,8 +1,8 @@
 @media screen and (max-width: 1440px) {
   .robo {
     height: 80%;
-    left: -27%;
-    top: 10%;
+    left: 5%;
+    top: 12%;
   }
 
   .box {
@@ -14,7 +14,11 @@
   }
 
   .peca {
-    padding: 4rem 0;
+    padding: 2.5rem 0;
+  }
+
+  .peca-titulo {
+    font-size: 2.3rem;
   }
 
   .equipamentos {
@@ -22,7 +26,7 @@
   }
 
   .producao {
-    margin-top: .7rem;
+    margin-top: .5rem;
     font-size: 1.5rem;
   }
 }
