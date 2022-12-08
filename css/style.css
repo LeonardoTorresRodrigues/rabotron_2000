@@ -64,7 +64,7 @@ main {
   height: 90%;
   z-index: 1;
   position: absolute;
-  left: -20%;
+  left: -5%;
   top: 5%;
 }
 
@@ -98,7 +98,6 @@ main {
 
 .montador {
   height: 100%;
-  ;
 }
 
 .montador-conteudo {
@@ -231,17 +230,4 @@ main {
   order: 1;
   flex-basis: 35%;
   margin: 10px 0 0;
-}
-
-
-
-@media screen and (max-width: 1024px) {
-  .robo {
-    left: -25%;
-    top: 20%;
-  }
-
-  .estatistica-numero {
-    font-size: 2rem;
-  }
 }
