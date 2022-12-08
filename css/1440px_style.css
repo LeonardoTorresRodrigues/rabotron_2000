@@ -1,0 +1,28 @@
+@media screen and (max-width: 1440px) {
+  .robo {
+    height: 80%;
+    left: -27%;
+    top: 10%;
+  }
+
+  .box {
+    margin-left: .9rem;
+  }
+
+  .alterar {
+    font-size: 1rem;
+  }
+
+  .peca {
+    padding: 4rem 0;
+  }
+
+  .equipamentos {
+    flex-basis: 30%;
+  }
+
+  .producao {
+    margin-top: .7rem;
+    font-size: 1.5rem;
+  }
+}
