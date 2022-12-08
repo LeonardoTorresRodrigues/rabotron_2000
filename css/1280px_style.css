@@ -1,0 +1,17 @@
+@media screen and (max-width: 1280px) {
+  .box {
+    flex-basis: 18%;
+  }
+
+  .robo {
+    left: 3%;
+  }
+
+  .montador {
+    height: 90%;
+  } 
+
+  .peca {
+    padding: 2rem 0;
+  }
+}
