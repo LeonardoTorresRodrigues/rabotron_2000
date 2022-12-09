@@ -1,0 +1,56 @@
+@media screen and (max-width: 688px) {
+  main {
+    width: 98vw;
+  }
+
+  .robotron {
+    height: 93vh;
+  }
+
+  .botoes {
+    width: 100vw;
+    margin: .5rem 0;
+    gap: .5rem;
+    justify-content: space-evenly;
+  }
+
+  .alterar {
+    padding: auto;
+    width: 5rem;
+  }
+
+  .robo {
+    height: 50%;
+    top: 30%;
+    left: -22%;
+  }
+
+  .titulo {
+    font-size: 6rem;
+  }
+
+  .box {
+    height: 80vh;
+    width: 25vw;
+    margin: 7rem 0 1rem;
+  }
+
+  .peca {
+    padding: 2.5rem 0;
+  }
+
+  .producao {
+    margin-right: 0;
+    margin-left: 0;
+    position: absolute;
+    right: 10%;
+  }
+
+  .estatistica-titulo {
+    margin: .5rem .5rem 0 .3rem;
+  }
+
+  .estatistica-valor::after {
+    width: 3rem;
+  }
+}
