@@ -13,7 +13,7 @@ Monte seu robô de combate!
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![badge](https://img.shields.io/badge/version-1.0-green)
+![badge](https://img.shields.io/badge/Version-1.5-green)
 
 ![Captura de Tela (135)](https://user-images.githubusercontent.com/91892938/184906775-814ddcd9-657b-416e-976e-c400ba6dfb5b.png#vitrinedev)
 
