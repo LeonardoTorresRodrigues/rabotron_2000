@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/91892938/184911066-a564b56b-82ed-4f46-
 * JavaScript
 * data-attributes
 * DOM
-* Responsividade
+* Responssividade
 
 ### Curso
 Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o professor Pedro Marins.
