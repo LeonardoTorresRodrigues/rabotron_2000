@@ -36,4 +36,5 @@ Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o 
 
 # Próximas atualizações
 > Versão mobile
+
 > Melhoria na montagem do robô
