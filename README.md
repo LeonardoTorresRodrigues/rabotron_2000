@@ -19,7 +19,7 @@ Monte seu robô de combate!
 
 ## Detalhes do projeto
 
-### Monte seu robo com as melhores peças e proteja a terra.
+Monte seu robo com as melhores peças e proteja a terra.
 
 https://user-images.githubusercontent.com/91892938/184911066-a564b56b-82ed-4f46-a1a0-9ecf89ecae25.mp4
 
