@@ -1,0 +1,30 @@
+@media screen and (max-width: 393px) {
+  .botoes {
+    gap: .01rem;
+  }
+
+  .alterar {
+    font-size: .3rem;
+  }
+
+  .robo {
+    left: 0%;
+    top: 5%;
+    margin-top: 2rem;
+  }
+
+  .box {
+    margin: 25rem auto 1rem;
+    width: 45vw;
+  }
+
+  .equipamentos {
+    position: relative;
+    left: -46%;
+  }
+
+  .estatisticas {
+    position: relative;
+    left: -49%;
+  } 
+}
