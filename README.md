@@ -36,6 +36,7 @@ Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o 
 * Link para o LinkedIn do porfessor: https://www.linkedin.com/in/pedromarins/
 
 # Próximas atualizações
-> Versão mobile;
 
-> Melhoria na montagem do robô;
+:construction: Versão mobile :construction:
+
+:construction: Melhoria na montagem do robô :construction:
