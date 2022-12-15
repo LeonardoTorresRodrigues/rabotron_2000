@@ -13,13 +13,13 @@ Monte seu robô de combate!
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![badge](https://img.shields.io/badge/version-1.0-green)
+![badge](https://img.shields.io/badge/Version-1.5-green)
 
 ![Captura de Tela (135)](https://user-images.githubusercontent.com/91892938/184906775-814ddcd9-657b-416e-976e-c400ba6dfb5b.png#vitrinedev)
 
 ## Detalhes do projeto
 
-### Monte seu robo com as melhores peças e proteja a terra.
+Monte seu robo com as melhores peças e proteja a terra.
 
 https://user-images.githubusercontent.com/91892938/184911066-a564b56b-82ed-4f46-a1a0-9ecf89ecae25.mp4
 
@@ -28,6 +28,7 @@ https://user-images.githubusercontent.com/91892938/184911066-a564b56b-82ed-4f46-
 * JavaScript
 * data-attributes
 * DOM
+* Responssividade
 
 ### Curso
 Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o professor Pedro Marins.
@@ -35,6 +36,6 @@ Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o 
 * Link para o LinkedIn do porfessor: https://www.linkedin.com/in/pedromarins/
 
 # Próximas atualizações
-> Melhora na responsividade
+> Versão mobile;
 
-> Estilização na troca de cor dos Robôs
+> Melhoria na montagem do robô;
