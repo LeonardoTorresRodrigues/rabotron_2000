@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/91892938/184911066-a564b56b-82ed-4f46-
 ### Curso
 Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o professor Pedro Marins.
 * Link para a Alura: https://www.alura.com.br/
-* Link para o LinkedIn do porfessor: https://www.linkedin.com/in/pedromarins/
+* Link para o LinkedIn do professor: https://www.linkedin.com/in/pedromarins/
 
 # Próximas atualizações
 
