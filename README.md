@@ -23,13 +23,6 @@ Monte seu robo com as melhores peças e proteja a terra.
 
 https://user-images.githubusercontent.com/91892938/184911066-a564b56b-82ed-4f46-a1a0-9ecf89ecae25.mp4
 
-### Objetivos de estudo
-* HTML
-* JavaScript
-* data-attributes
-* DOM
-* Responssividade
-
 ### Curso
 Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o professor Pedro Marins.
 * Link para a Alura: https://www.alura.com.br/
@@ -37,10 +30,7 @@ Projeto feito durante o curso de "JavaScript: Manipulando o DOM" da Alura com o 
 
 # Próximas atualizações
 
-:construction: Versão mobile :construction:
-
 :construction: Melhoria na montagem do robô :construction:
 
 :construction: Site feito em React :construction:
 
-:construction: Jogo Web :construction:
